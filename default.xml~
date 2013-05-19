@@ -250,11 +250,11 @@
   <project path="hardware/qcom/camera" name="ChameleonOS/android_hardware_qcom_camera" />
   <project path="hardware/qcom/display" name="ChameleonOS/android_hardware_qcom_display" />
   <project path="hardware/qcom/display-caf" name="ChameleonOS/android_hardware_qcom_display-caf" />
-  <project path="hardware/qcom/display-legacy" name="arco/android_hardware_qcom_display-legacy" revision="cm-10.1" />
+  <project path="hardware/qcom/display-legacy" name="arco/android_hardware_qcom_display-legacy" />
   <project path="hardware/qcom/gps" name="ChameleonOS/android_hardware_qcom_gps" />
   <project path="hardware/qcom/keymaster" name="ChameleonOS/android_hardware_qcom_keymaster" />
   <project path="hardware/qcom/media" name="ChameleonOS/android_hardware_qcom_media" />
-  <project path="hardware/qcom/media-legacy" name="arco/android_hardware_qcom_media-legacy" revision="cm-10.1"/>
+  <project path="hardware/qcom/media-legacy" name="arco/android_hardware_qcom_media-legacy" />
   <project path="hardware/qcom/msm8960" name="ChameleonOS/android_hardware_qcom_msm8960" />
   <project path="hardware/qcom/power" name="ChameleonOS/android_hardware_qcom_power" />
   <project path="hardware/qcom/sensors" name="ChameleonOS/android_hardware_qcom_sensors" />
