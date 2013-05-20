@@ -40,7 +40,6 @@
   <project path="device/google/accessory/demokit" name="ChameleonOS/android_device_google_accessory_demokit" groups="device" />
   <project path="device/sample" name="ChameleonOS/android_device_sample" groups="device" />
   <project path="device/samsung/ancora_tmo" name="theapant/android_device_samsung_ancora_tmo" revision="cos" />
-  <project path="device/samsung/ancora" name="theapant/android_device_samsung_ancora" revision="cos" />
   <project path="device/ti/panda" name="ChameleonOS/android_device_ti_panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="external/aac" name="ChameleonOS/android_external_aac" />
